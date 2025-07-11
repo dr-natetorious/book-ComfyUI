@@ -1,0 +1,16 @@
+= ComfyUI In Action
+
+:doctype: book
+:toc:
+:toc-title: Table of Contents
+:pagenums:
+
+include::Chapters/1_FirstPipeline.adoc[]
+include::Chapters/2_Photograph.adoc[]
+include::Chapters/3_Podcast.adoc[]
+include::Chapters/4_Multimedia.adoc[]
+include::Chapters/5_Campaign.adoc[]
+include::Chapters/6_MultiBrand.adoc[]
+include::Chapters/7_CustomStyling.adoc[]
+include::Chapters/8_Production.adoc[]
+include::Chapters/Appendix.adoc[]

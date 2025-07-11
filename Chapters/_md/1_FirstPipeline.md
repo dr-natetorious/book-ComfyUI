@@ -3,6 +3,7 @@
 
 ## What You'll Build
 By the end of this chapter, you'll have a complete automated content research system running in production that:
+
 - Monitors 5 news sources continuously 
 - Extracts and summarizes breaking stories within 10 minutes
 - Generates executive briefings formatted for Slack, email, and dashboards
