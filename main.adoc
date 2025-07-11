@@ -1,16 +1,71 @@
 = ComfyUI In Action
-
 :doctype: book
 :toc:
 :toc-title: Table of Contents
 :pagenums:
+:icons: font
+:icon-set: fas
+:source-highlighter: coderay
+:imagesdir: images
+:front-cover-image: cover.png
+
+// Book metadata
+:author: [Author Name]
+:email: author@example.com
+:revnumber: 1.0
+:revdate: {docdate}
+:publisher: Manning Publications Co.
+:copyright: Copyright © 2025 Manning Publications Co.
+
+// Document attributes for better formatting
+:sectnums:
+:sectnumlevels: 3
+:partnums:
+:appendix-caption: Appendix
+:chapter-label: Chapter
+:figure-caption: Figure
+:table-caption: Table
+:example-caption: Example
+:listing-caption: Listing
+
+// [dedication]
+// == Dedication
+// // Add dedication text here
+
+// [preface]
+// == Preface
+// // Introduction to the book's goals and approach
+
+// == About This Book
+// // Information for readers about how to use this book
+
+// == About the Cover Illustration
+// // Traditional Manning section about the cover
+
+// == About the Author
+// Author biography and credentials
+
+// Part I: Foundation - Single Modality Mastery
 
 include::Chapters/1_FirstPipeline.adoc[]
+
 include::Chapters/2_Photograph.adoc[]
+
 include::Chapters/3_Podcast.adoc[]
+
+// Part II: Integration - Multi-Modal Workflows
+
 include::Chapters/4_Multimedia.adoc[]
+
 include::Chapters/5_Campaign.adoc[]
+
 include::Chapters/6_MultiBrand.adoc[]
+
+// Part III: Production - Advanced Implementation
+
 include::Chapters/7_CustomStyling.adoc[]
+
 include::Chapters/8_Production.adoc[]
+
+[appendix]
 include::Chapters/Appendix.adoc[]
